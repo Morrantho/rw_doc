@@ -1,0 +1,88 @@
+body
+{
+	background-color: #f4f3ef;
+}
+
+.wrap
+{
+	padding: 2rem;
+	width: 60%;
+	margin: 0 auto;
+	background-color: white;
+}
+
+.doc
+{
+	padding: 1rem;
+}
+
+pre
+{
+	padding: 0 2rem;
+}
+
+.pad2l
+{
+	padding-left: 2rem;
+}
+
+.pad2lr
+{
+	padding:0 2rem;
+}
+
+p,ol,ul,li
+{
+	color:rgb(85, 85, 85)
+}
+
+h1
+{
+	text-align: center;
+	color: rgb(33,150,243);
+	font-weight: bold;
+}
+h2,h3
+{
+	color: rgb(33,150,243);
+	font-weight: bold;	
+}
+
+.svcol
+{
+	color: rgb(33,150,243);
+}
+.clcol
+{
+	color: rgb(255,87,34);
+}
+.shcol
+{
+	color: rgb(76,175,80);
+}
+
+.hrsv
+{
+	border: .0125rem solid rgb(33,150,243);
+}
+.hrcl
+{
+	border: .0125rem solid rgb(255,87,34);
+}
+.hrsh
+{
+	border: .0125rem solid rgb(76,175,80);
+}
+
+textarea
+{
+	display: block;
+	width: 100%;
+	height: 10rem;
+}
+button
+{
+	display: block;
+	width: 100%;
+	height: 2rem;
+}
